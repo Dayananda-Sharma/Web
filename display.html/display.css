@@ -1,0 +1,21 @@
+.box{
+    height: 100px;
+    width: 200px;
+    border: 2px solid;
+}
+#first{
+    background-color: aqua;
+    display: inline-block;
+    margin-left: 100px;
+}
+#second{
+    background-color: beige;
+    display: inline;
+    margin-left: 100px;
+}
+#thrid{
+    background-color: brown;
+    display: inline-block;
+   margin-left: 200px;
+
+}
